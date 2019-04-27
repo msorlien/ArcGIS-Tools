@@ -6,10 +6,10 @@ Simple ArcGIS tools by Mariel Sorlien.
 ## Directory
 
 ### Toolbox: Date Tools
-A series of tools to manipulate the way dates are formatted. Contains the following tools:
-- Clip to Date Range
-- Change Date Format
-- Integer to Date
-- Date to Integer
+> A series of tools to manipulate the way dates are formatted. Contains the following tools:
+> - Clip to Date Range
+> - Change Date Format
+> - Integer to Date
+> - Date to Integer
 
-[toolbox](https://github.com/msorlien/ArcGIS-Tools/blob/master/Tools/DateTools.pyt) | [example data](https://github.com/msorlien/ArcGIS-Tools/blob/master/Example%20Data/DateTools.zip)
+> [toolbox](https://github.com/msorlien/ArcGIS-Tools/blob/master/Tools/DateTools.pyt) | [example data](https://github.com/msorlien/ArcGIS-Tools/blob/master/Example%20Data/DateTools.zip)
